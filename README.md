@@ -8,4 +8,4 @@ The implementation of the project was guided by the CampusX YouTube channel and 
 
 The project is designed to provide users with a personalized and enjoyable movie-watching experience by making tailored suggestions based solely on the content of the movies. The system takes the movie name as input from the user and recommends the top 5 most similar movies of interest. 
 
-Thank you !!!
+
